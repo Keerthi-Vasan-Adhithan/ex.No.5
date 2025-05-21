@@ -1,5 +1,5 @@
 # Ex05 Image Carousel
-## Date: 17.05.2025
+## Date: 09.05.2025
 ## Name: Keerthi Vasan A
 ## Reg No: 212222240048
 ## AIM
